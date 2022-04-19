@@ -1,7 +1,6 @@
 # Chat-System-Using-CAN-Bus
 
-Implemented a chatting system between two MCUs (TM4C123). The messages are transmitted as 8-Bytes message over CAN bus with a message maxiumum size of 200 Bytes. 
-Using the UART, The message is then presented to the user.
+Implemented a chatting system between two MCUs (TM4C123). The messages are transmitted as 8-Bytes message over CAN bus with a message maximum size of 200 Bytes. Using UART, the message is then presented to the user.
 
 The project is implemenetd on Tiva C (TM4C123GH6PM).
 
